@@ -18,11 +18,11 @@ Cucumber, Junit5, Serenity, Java
 
 # Test Cases
 
-##Add a ToDo Item
-##Add Multiple ToDO Item
-##Add a ToDO Itme to an exisitng list
-##Comlete a ToDO Item
-##Diplay "How to Add Item" first time.
-##Diplay "How to Add Item" first time.
+Add a ToDo Item
+Add Multiple ToDO Item
+Add a ToDO Itme to an exisitng list
+Comlete a ToDO Item
+Diplay "How to Add Item" first time.
+Diplay "How to Add Item" first time.
 
 

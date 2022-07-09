@@ -9,6 +9,7 @@ Please run the following command
 
 mvn clean test
 
-## Configirations
+## Configurations
 
 "By default, this project will use chrome, and auto-download of drivers is on. You can switch browsers and other configurations at "serenity.conf" available at "src/test/resources" 
+
